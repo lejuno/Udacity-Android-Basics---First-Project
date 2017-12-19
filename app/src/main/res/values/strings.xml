@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pudim Company</string>
+    <string name="title">Pudim Bakery</string>
+    <string name="descriptionField">Description:</string>
+    <string name="detailedDescription">Pudim is a bakery specialized in Wedding Cakes and the most Finest Wedding Candies.</string>
+    <string name="addressField">Address: </string>
+    <string name="detailedAddress">Av. República do Líbano, 1181\nParque Ibirapuera\nSão Paulo - SP\nBrazil</string>
+    <string name="gmapsUrl">https://goo.gl/maps/bYLyXbFDztw</string>
+    <string name="hoursField">Working Hours:</string>
+    <string name="detailedHours">Monday to Friday: 10am ~ 8pm\nSaturday: 10am ~ 6pm\nSunday and Holidays: Closed.</string>
+    <string name="contactField">Contact:</string>
+    <string name="detailedContact">Cel.: +55-11-98765-4321\nTel.: +55-11-1234-5678</string>
+    <string name="webPage">www.pudim.com.br</string>
+    <string name="email">pudim@pudim.com.br</string>
+    <string name="Owner">Owner:</string>
+</resources>
